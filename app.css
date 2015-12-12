@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+}
+header {
+  height: 10vh;
+  width: 100vw;
+  background-color: #102232;
+}
+
+main {
+  height: 90vh;
+  width: 100vw;
+  background-color:#ff0000;
+  position: absolute;
+}
+
+footer {
+  position:fixed;
+  left:0px;
+  bottom:0px;
+  height:30px;
+  width:100%;
+  background:#999; }
+
+.container {
+  margin: 10% auto;
+  height: 100px;
+  width: 500px;
+}
+.box {
+  float: left;
+  width: 25%;
+  height: 100%;
+  text-align: center;
+}
+.box1 {
+  background-color: #2c9913;
+}
+.box2 {
+  background-color: #13ab28;
+}
