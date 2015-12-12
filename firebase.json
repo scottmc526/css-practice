@@ -1,0 +1,9 @@
+{
+  "firebase": "csspractice-scottc",
+  "public": "public",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
